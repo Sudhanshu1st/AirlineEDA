@@ -143,7 +143,3 @@ px.bar(bottom10_airport, x='Airport Name', y='count', color='Airport Name', colo
 ## Conclusion
 
 This exploratory data analysis provides insights into the demographics and travel patterns of airline passengers. The visualizations help in understanding the distribution of genders, ages, nationalities, and the most and least frequented airports.
-```
-
-
-
